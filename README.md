@@ -3,9 +3,19 @@
 </h1>
 
 <p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img alt="License: Apache 2" src="https://img.shields.io/badge/license-MIT-green" target="_blank" />
+  <a href="https://github.com/pet-in-COVID-19/pet-in-COVID-19">
+    <img src="https://img.shields.io/github/stars/pet-in-COVID-19/pet-in-COVID-19" />
   </a>
+  <a href="https://github.com/pet-in-COVID-19/pet-in-COVID-19/pulls">
+    <img src="https://img.shields.io/github/forks/pet-in-COVID-19/pet-in-COVID-19" />
+  </a>
+  <a href="https://github.com/pet-in-COVID-19/pet-in-COVID-19/issues">
+    <img src="https://img.shields.io/github/issues/pet-in-COVID-19/pet-in-COVID-19" />
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img alt="License: Apache 2" src="https://img.shields.io/github/license/pet-in-COVID-19/pet-in-COVID-19" target="_blank" />
+  </a>
+
 </p>
 
 
