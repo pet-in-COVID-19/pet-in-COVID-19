@@ -1,7 +1,13 @@
 <h1>
 <p align="center">疫情之下的宠物们</p>
 </h1>
-  
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img alt="License: Apache 2" src="https://img.shields.io/badge/license-MIT-green" target="_blank" />
+  </a>
+</p>
+
 
 ## 前言
 
