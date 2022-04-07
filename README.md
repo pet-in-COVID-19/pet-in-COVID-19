@@ -42,6 +42,8 @@
 
 ## 举措
 
+- [扩散！全国首个8500㎡宠物方舱建成，疫情下的毛孩子有救了！](https://mp.weixin.qq.com/s/k_uEuyAi-dkLlqJSS3go4A)
+
 
 ## 其他
 
