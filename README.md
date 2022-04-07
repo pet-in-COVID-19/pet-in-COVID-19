@@ -21,6 +21,8 @@
 
 ## 事件
 
+- [河北廊坊安次区致歉 停止扑杀新冠患者户内动物](https://news.sina.com.cn/c/2022-03-30/doc-imcwiwss9026872.shtml)
+
 
 ## 法律
 
